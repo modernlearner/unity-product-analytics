@@ -1,6 +1,8 @@
 # unity-product-analytics
 Samples of using Unity with C# and Product Analytics tools like Segment
 
+[@rudolfolah](https://github.com/rudolfolah)
+
 ## Segment
 Sample code for sending HTTP API requests directly to Segment from Unity is in [Segment/SegmentTracking.cs](./Segment/SegmentTracking.cs)
 
